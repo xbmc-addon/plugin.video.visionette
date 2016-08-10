@@ -2,7 +2,7 @@
 <addon id="plugin.video.visionette" name="Visionette" version="0.0.10" provider-name="HAL9000">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.xbmcup" version="0.0.7"/>
+    <import addon="script.module.xbmcup" version="0.2.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
     <provides>video</provides>
